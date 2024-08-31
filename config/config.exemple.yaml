@@ -1,0 +1,10 @@
+discord:
+  token: "YOUR_DISCORD_BOT_TOKEN"
+  guild_id: "YOUR_GUILD_ID"
+
+pocketbase:
+  url: "http://localhost:8090"
+  api_key: "YOUR_POCKETBASE_API_KEY"
+
+youtube:
+  api_key: "YOUR_YOUTUBE_API_KEY"
